@@ -1,4 +1,4 @@
-#Affine Cryptography
+# Affine Cryptography
 
 Python implementation of the Affine Cryptography System
 
